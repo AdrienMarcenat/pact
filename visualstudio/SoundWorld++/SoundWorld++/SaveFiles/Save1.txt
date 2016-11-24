@@ -1,0 +1,7 @@
+{
+"maxLife":"100",
+"level":"0",
+"cristalNumber":"0",
+"levelStat":
+[]
+}

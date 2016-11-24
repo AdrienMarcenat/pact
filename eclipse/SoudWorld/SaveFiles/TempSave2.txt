@@ -1,0 +1,10 @@
+{
+"maxLife":"100",
+"level":"1",
+"cristalNumber":"0",
+"levelStat":
+[{"cristalsCollected":"0",
+"hit":"0",
+"cristals":
+[0,0,]}]
+}

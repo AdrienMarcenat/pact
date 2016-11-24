@@ -1,0 +1,4 @@
+{ 
+	"levelName":"level_1",	
+	"events":[[{"type":"H", "radius":"10", "life":"10", "posX":"","posY":"" ,"posZ":"", "sound":"", "damage":"2", "vX":"", "vY":"", "vZ":""}]]
+}

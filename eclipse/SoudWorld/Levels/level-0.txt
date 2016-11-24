@@ -1,0 +1,14 @@
+{
+"levelName":"level-1",
+"events":[
+[
+{"type":"N","radius":"10","life":"10","posX":"0","posY":"0","posZ":"0","sound":"Piece","damage":"10","velocity":"0.2","trigger":"Cristal","trajectory":[{"X":"153","Y":"84"},{"X":"707","Y":"92"},{"X":"145","Y":"488"},{"X":"642","Y":"454"},{"X":"247","Y":"240"},{"X":"530","Y":"43"},{"X":"750","Y":"47"}]}
+]
+,[
+{"type":"H","radius":"10","life":"10","posX":"0","posY":"0","posZ":"0","sound":"Alien","damage":"10","velocity":"0.1","trigger":"Cristal","lifeTime":"10","trajectory":[]}
+]
+],
+"ambience":
+[
+]
+}
